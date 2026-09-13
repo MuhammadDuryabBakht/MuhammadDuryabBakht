@@ -91,9 +91,12 @@ I believe the best way to learn programming is to **build projects**, so I've be
 
 | Project                              | Technologies |
 | ------------------------------------ | ------------ |
+| ✊ ✌️ ✋ **Rock, Paper, Scissors**           | HTML, CSS, JS    |
+| ⭕ ❌ ⬜ **Tic Tac Toe**           | HTML, CSS, JS    |
 | ☕ **Coffee House Website**           | HTML, CSS    |
 | 🛒 **Amazon Clone**           | HTML, CSS         |
 | ▶️ **YouTube Video Page**            | HTML         |
+| 📝 **University Admission Form** | HTML         |
 | 👨‍💻 **Personal Introduction Page** | HTML         |
 
 ---
