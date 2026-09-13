@@ -44,7 +44,7 @@ Alongside programming, I'm exploring **Web Development** with HTML, CSS, and Jav
 
 ---
 
-## 📚 What I'm Learning
+## 📚 What I'm Improving
 
 ### C++
 
