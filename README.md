@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Duryab Bakht
 
-### 💻 Software Engineering Student | C++ Developer | Python Learner | Web Development Enthusiast
+### 💻 Software Engineering Student | C++ Developer | Python Developer | Front End Developer 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;C%2B%2B+%7C+Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" />
@@ -114,6 +114,18 @@ I believe the best way to learn programming is to **build projects**, so I've be
 * 🌐 Course: **Basics of Python (CR641)**
 
 The achievement is blockchain-verified according to the certificate.
+
+### 🐍 Basics of Python
+
+**HackerRank**
+
+* 📊 Skill Certification Test: Python (Basic)
+* 📚 Python Basics
+* 🏆 HackerRank Skill Certification
+* 📅 Earned on: 19 Aug 2026
+* ✅ Passed the HackerRank Python (Basic) Certification Test
+
+The certificate is issued by HackerRank and confirms successful completion of the Python (Basic) skill certification test.
 
 ---
 
